@@ -38,3 +38,10 @@ Berikut adalah beberapa teknologi dan *tools* yang sering saya gunakan atau seda
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph.svg">
+</picture>
+
