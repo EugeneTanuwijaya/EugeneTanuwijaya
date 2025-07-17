@@ -1,6 +1,6 @@
-# Halo, Saya Eugene Tanuwijaya! 👋
-
 ![Eugene Tanuwijaya](img/github-header-image.png)
+
+# Halo, Saya Eugene Tanuwijaya! 👋
 
 Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika dengan minat yang mendalam pada Software Engineering.
 
