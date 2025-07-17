@@ -41,7 +41,8 @@ Berikut adalah beberapa teknologi dan *tools* yang sering saya gunakan atau seda
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph-light.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/EugeneTanuwijaya/EugeneTanuwijaya/output/pacman-contribution-graph-light.svg">
 </picture>
 
