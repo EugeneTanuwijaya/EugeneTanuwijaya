@@ -2,7 +2,7 @@
 
 # Halo, Saya Eugene Tanuwijaya! 👋
 
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika dengan minat yang mendalam pada Software Engineering.
+Saya mahasiswa Teknik Informatika dengan ketertarikan mendalam pada Software Engineering, terutama pengembangan Web dan Backend Development.
 
 ---
 
