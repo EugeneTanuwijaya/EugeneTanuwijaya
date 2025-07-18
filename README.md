@@ -1,6 +1,7 @@
 ![Eugene Tanuwijaya](img/github-header-image.png)
 
-# Halo, Saya Eugene Tanuwijaya! 👋
+# Welcome to My GitHub Portfolio! 👋
+ 
 
 Saya mahasiswa Teknik Informatika dengan ketertarikan mendalam pada Software Engineering, terutama pengembangan Web dan Backend Development.
 
