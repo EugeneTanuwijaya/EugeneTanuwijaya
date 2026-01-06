@@ -3,7 +3,7 @@
 # Welcome to My GitHub Portfolio! 👋
  
 
-Saya mahasiswa Teknik Informatika dengan ketertarikan mendalam pada Software Engineering, terutama pengembangan Web dan Backend Development.
+Mahasiswa Teknik Informatika dengan ketertarikan mendalam pada Software Engineering, terutama pengembangan Web dan Backend Development.
 
 ---
 
@@ -40,6 +40,4 @@ Berikut adalah beberapa teknologi dan *tools* yang sering saya gunakan atau seda
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
----
 
