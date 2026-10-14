@@ -1,5 +1,3 @@
-![Eugene Tanuwijaya]()
-
 # Welcome to My GitHub Portfolio! 👋
  
 
