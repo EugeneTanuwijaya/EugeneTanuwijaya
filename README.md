@@ -1,4 +1,4 @@
-![Eugene Tanuwijaya](img/github-header-image.png)
+![Eugene Tanuwijaya]()
 
 # Welcome to My GitHub Portfolio! 👋
  
